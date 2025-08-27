@@ -1,6 +1,3 @@
 # Profile
 
-Ini adalah website tugas **Pengantar Web Mining**.  
-Gunakan menu di sebelah kiri untuk melihat profil dan tugas.
-
-```
+Pekenalkan nama saya Fahmi Farizi, Saya mahasiswa teknik informatika angakatan 2022 dengan Nim : 2203411100118
